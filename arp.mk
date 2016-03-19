@@ -11,7 +11,7 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="htc_saga-$(TARGET_BUILD_VARIANT) $(PLATFORM_VERSION) $(BUILD_ID) $(shell date +%Y%m%d%H%M%S) test-keys"
 
 # Device identifier. This must come after all inclusions
-PRODUCT_NAME := cm_saga
+PRODUCT_NAME := arp_saga
 PRODUCT_GMS_CLIENTID_BASE := android-htc-rev
 
 PRODUCT_BOOTANIMATION := device/htc/msm7x30-common/rootdir/system/media/bootanimation.zip
