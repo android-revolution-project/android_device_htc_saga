@@ -1,2 +1,2 @@
-add_lunch_combo arp_saga-userdebug
-add_lunch_combo arp_saga-eng
+add_lunch_combo cm_saga-userdebug
+add_lunch_combo cm_saga-eng
